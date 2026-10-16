@@ -20,3 +20,6 @@ Git tracks changes in files. GitHub hosts repositories online. A commit saves ch
 ## Tools Used
 - GitHub website
 - Web browser
+## Branch Practice
+
+I created the assignment-notes branch to practise isolated changes.
